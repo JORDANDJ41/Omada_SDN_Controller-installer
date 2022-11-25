@@ -1,8 +1,6 @@
 Omada Installer
 A script to perform a new install of the TP-Link Omada SDN Controller software on Ubuntu 16.04, 18.04 or 20.04.
 
-Please see link below for instructions on upgrading from 3.2.14 or below. For upgrading from 4.1.4 or later, you should be able to download the latest version and upgrade using dpkg. However, perform at your own risk and be sure to take a backup!
-
 Special thanks to @willquill for his Omada Ubuntu 16.04 guide :)
 
 Recommended specs
