@@ -4,7 +4,7 @@
 #supported       :Ubuntu 16.04, Ubuntu 18.04, Ubuntu 20.04
 #author          :cloud41
 #date            :2022-11-17
-#updated         :2023-02-22
+#updated         :2023-03-21
 
 # URL of latest available version of the Omada Controller package
 OmadaPackageUrl=https://static.tp-link.com/upload/software/2023/202303/20230321/Omada_SDN_Controller_v5.9.31_Linux_x64.deb
