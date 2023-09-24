@@ -10,7 +10,7 @@ Ubuntu 20.04
 Install
 Connect via SSH or console, run the following command and enjoy a sip of coffee ;)
 
-<<curl -s https://github.com/JORDANDJ41/Omada_SDN_Controller_v5.9.31-installer/blob/cf89209e28e46ee403c2d300a3b1c5e532a4b320/install-omada-controller.sh >>| sudo bash
+<<curl -s https://github.com/JORDANDJ41/Omada_SDN_Controller_v5.12.7-installer/blob/cf89209e28e46ee403c2d300a3b1c5e532a4b320/install-omada-controller.sh >>| sudo bash
 Once finished, complete the setup in your web browser via the URL in the final output.
 
 
