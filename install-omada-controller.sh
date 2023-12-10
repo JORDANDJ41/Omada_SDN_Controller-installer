@@ -1,13 +1,13 @@
 #!/bin/bash
 #title           :install-omada-controller.sh
-#description     :Omada Controller 5.9.31 Installer for Ubuntu
+#description     :Omada Controller 5.13.22 Installer for Ubuntu
 #supported       :Ubuntu 16.04, Ubuntu 18.04, Ubuntu 20.04
 #author          :cloud41
 #date            :2022-11-17
 #updated         :2023-03-21
 
 # URL of latest available version of the Omada Controller package
-OmadaPackageUrl=https://static.tp-link.com/upload/software/2023/202309/20230920/Omada_SDN_Controller_v5.12.7_Linux_x64.deb
+OmadaPackageUrl=https://static.tp-link.com/upload/software/2023/202312/20231201/Omada_SDN_Controller_v5.13.22_Linux_x64.deb
 
 
 OS=$(hostnamectl status | grep "Operating System")
