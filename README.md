@@ -77,6 +77,10 @@ sudo tpeap stop     # arrêter
 - **L'interface ne répond pas** : attendre quelques minutes, puis `sudo tpeap status`. Les journaux sont dans `/opt/tplink/EAPController/logs/`.
 - **Équipements non découverts** : vérifier que le serveur est dans le même réseau/VLAN, ou utiliser l'adoption L3 (Omada Discovery Utility ou option DHCP 138).
 
+## Retours
+
+La version 2.0 vient d'être réécrite pour Omada 6.x. Si vous l'avez testée (réussite ou échec), merci de le signaler dans une [issue](https://github.com/JORDANDJ41/Omada_SDN_Controller-installer/issues) en précisant le système utilisé (`lsb_release -a`). En cas d'erreur, joignez la sortie du script.
+
 ## Liens
 
 - [Guide officiel d'installation Linux](https://support.omadanetworks.com/document/13088/)
