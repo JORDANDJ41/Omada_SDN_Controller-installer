@@ -89,6 +89,10 @@ La version 2.0 vient d'être réécrite pour Omada 6.x. Si vous l'avez testée (
 
 Merci à [@willquill](https://github.com/willquill/omada-ubuntu) pour son guide d'origine.
 
+## Licence
+
+[MIT](LICENSE) : libre d'utilisation et de modification. Script fourni tel quel, sans garantie.
+
 ---
 
 ☕ Ce script vous a fait gagner du temps ? [Offrez-moi un café sur Ko-fi](https://ko-fi.com/jordandj41)
